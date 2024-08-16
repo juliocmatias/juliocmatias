@@ -35,11 +35,11 @@ My main goal is to develop projects following the best practices I've learned du
 
 <h4 align="center">Top langs :tongue:</h4>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=juliomatiastrybe&langs_count=10&theme=tokyonight&layout=compact" alt="AnhellO :: Top Langs" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=juliocmatias&langs_count=10&theme=tokyonight&layout=compact" alt="AnhellO :: Top Langs" /></p>
 
 
 <h4 align="center">Profile stats :musical_keyboard:</h4>
 
-<p align="center"> <img src=https://github-readme-stats.vercel.app/api?username=juliomatiastrybe&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF />
+<p align="center"> <img src=https://github-readme-stats.vercel.app/api?username=juliocmatias&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF />
 </p>
 
